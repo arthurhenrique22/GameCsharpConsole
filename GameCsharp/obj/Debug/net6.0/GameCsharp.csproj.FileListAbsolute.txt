@@ -1,0 +1,15 @@
+C:\Users\arthu\Desktop\GameCsharp\bin\Debug\net6.0\GameCsharp.exe
+C:\Users\arthu\Desktop\GameCsharp\bin\Debug\net6.0\GameCsharp.deps.json
+C:\Users\arthu\Desktop\GameCsharp\bin\Debug\net6.0\GameCsharp.runtimeconfig.json
+C:\Users\arthu\Desktop\GameCsharp\bin\Debug\net6.0\GameCsharp.dll
+C:\Users\arthu\Desktop\GameCsharp\bin\Debug\net6.0\GameCsharp.pdb
+C:\Users\arthu\Desktop\GameCsharp\obj\Debug\net6.0\GameCsharp.csproj.AssemblyReference.cache
+C:\Users\arthu\Desktop\GameCsharp\obj\Debug\net6.0\GameCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\Desktop\GameCsharp\obj\Debug\net6.0\GameCsharp.AssemblyInfoInputs.cache
+C:\Users\arthu\Desktop\GameCsharp\obj\Debug\net6.0\GameCsharp.AssemblyInfo.cs
+C:\Users\arthu\Desktop\GameCsharp\obj\Debug\net6.0\GameCsharp.csproj.CoreCompileInputs.cache
+C:\Users\arthu\Desktop\GameCsharp\obj\Debug\net6.0\GameCsharp.dll
+C:\Users\arthu\Desktop\GameCsharp\obj\Debug\net6.0\refint\GameCsharp.dll
+C:\Users\arthu\Desktop\GameCsharp\obj\Debug\net6.0\GameCsharp.pdb
+C:\Users\arthu\Desktop\GameCsharp\obj\Debug\net6.0\GameCsharp.genruntimeconfig.cache
+C:\Users\arthu\Desktop\GameCsharp\obj\Debug\net6.0\ref\GameCsharp.dll
